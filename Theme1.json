@@ -347,7 +347,7 @@
         "WHITE_630": "#776767"
     },
     "fonts": {
-        "PixelMplus12-Regular": "https://github.com/AtlasTheLucario/Font/blob/main/PixelMplus12-Regular.ttf?raw=1"
+        "PixelMplus12-Regular": "https://github.com/AtlasTheLucario/Font/raw/refs/heads/main/PixelMplus12-Regular.ttf?raw=1"
     },
     "background": {
         "blur": 0.1,
