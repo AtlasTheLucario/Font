@@ -1,8 +1,8 @@
 {
     "spec": 1,
-    "name": "ABCGintoNord-ExtraBold",
+    "name": "ggsans-Normal",
     "previewText": "Funny TON Font.",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/AtlasTheLucario/Font/raw/refs/heads/main/PixelMplus12-Regular/PixelMplus12-Regular/PixelMplus12-Regular.ttf"
+        "ggsans-Normal": "https://github.com/AtlasTheLucario/Font/raw/refs/heads/main/PixelMplus12-Regular/PixelMplus12-Regular/PixelMplus12-Regular.ttf"
     }
 }
