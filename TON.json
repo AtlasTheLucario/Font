@@ -1,8 +1,8 @@
 {
     "spec": 1,
-    "name": "TON",
+    "name": "ABCGintoNord-ExtraBold",
     "previewText": "Funny TON Font.",
     "main": {
-        "PixelMplus12-Regular": "https://github.com/AtlasTheLucario/Font/raw/refs/heads/main/PixelMplus12-Regular/PixelMplus12-Regular/PixelMplus12-Regular.ttf"
+        "ABCGintoNord-ExtraBold": "https://github.com/AtlasTheLucario/Font/raw/refs/heads/main/PixelMplus12-Regular/PixelMplus12-Regular/PixelMplus12-Regular.ttf"
     }
 }
